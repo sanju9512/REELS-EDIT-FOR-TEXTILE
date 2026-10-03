@@ -1,0 +1,6 @@
+{
+  "name": "Textile Studio",
+  "description": "AI-powered photo & reel studio for textile & fashion products with background removal, trend editor, video conversion, multi-social publishing, ads manager, analytics and team collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
